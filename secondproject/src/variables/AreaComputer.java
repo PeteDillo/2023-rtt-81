@@ -1,4 +1,4 @@
-package areaComputer;
+package variables;
 
 public class AreaComputer {
 	/** Main method */
