@@ -1,4 +1,4 @@
-package variables;
+package controlflow;
 
 public class NestedChained {
 

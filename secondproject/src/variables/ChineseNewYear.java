@@ -1,6 +1,6 @@
 package variables;
 
-public class chinesenewyear {
+public class ChineseNewYear {
 	public static void main(String[] args) {
 		   int year = 1990;
 		  switch (year % 12)
