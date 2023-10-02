@@ -1,4 +1,4 @@
-package com.perscholas.java_basics;
+package coffeeshop;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
