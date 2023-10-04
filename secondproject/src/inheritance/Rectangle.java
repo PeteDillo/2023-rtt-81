@@ -19,7 +19,7 @@ public class Rectangle extends Shape {
 	
 	@Override
 	public double calculatePerimeter() {
-		return 2 * (width * height) ;
+		return  (2 *width ) + (height * 2);
 	}
 
 	public double getHeight() {
